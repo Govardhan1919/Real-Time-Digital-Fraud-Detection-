@@ -1,0 +1,10 @@
+{
+    "model": "Logistic Regression Baseline",
+    "otp_threshold": 0.0026848573544272897,
+    "block_threshold": 0.0035433105644004778,
+    "score_type": "uncalibrated_fraud_score",
+    "policy_type": "demonstration_only",
+    "cost_missed_fraud": 5000,
+    "cost_otp": 5,
+    "cost_false_block": 500
+}
